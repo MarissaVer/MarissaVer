@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- Hi there 👋
 - ⚒ I'm currently working on Visual Basic, R y python
 - 🌱 I'm currently learning R and Python
 - 🤔 I'm looking for help with Python
@@ -18,10 +17,10 @@
 - Proactivity
 
 ### Languages
-English: Intermediate-Advanced
-Language Center Peruvian-British Cultural Association
+-English: Intermediate-Advanced
+-Language Center Peruvian-British Cultural Association
 
 ### Acknowledgments 
-. Beneficiary of the PRONABEC Continuing Studies 2020-II Scholarship.
-. Honorable mention in the Research Contest of the Faculty of Social Sciences of PUCP.
-. Part of the 8.66% in order of merit in economics in all the cycles studied (part of the top tenth).
+- Beneficiary of the PRONABEC Continuing Studies 2020-II Scholarship.
+- Honorable mention in the Research Contest of the Faculty of Social Sciences of PUCP.
+- Part of the 8.66% in order of merit in economics in all the cycles studied (part of the top tenth).
