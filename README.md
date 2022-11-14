@@ -17,8 +17,8 @@
 - Proactivity
 
 ## **Languages**
--English: Intermediate-Advanced
--Language Center Peruvian-British Cultural Association
+- English: Intermediate-Advanced
+- Language Center Peruvian-British Cultural Association
 
 ## **Acknowledgments**
 - Beneficiary of the PRONABEC Continuing Studies 2020-II Scholarship.
